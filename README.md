@@ -71,3 +71,23 @@ pip install -r requirements.txt
 # 4. Run the Streamlit app
 streamlit run app.py
 
+---
+
+## Sample Screenshots
+
+### App Interface
+![App Interface](screenshots/App-Interface.png)
+
+### Amino Acid Composition
+![Amino Acid Composition](screenshots/Amino-Acid-Composition.png)
+
+### Protein Trends from Upload History
+![Upload Trends](screenshots/Protein-Trends-From-Upload-History.png)
+
+### NCBI BLAST Results
+![BLAST Output](screenshots/Blast-Img.png)
+
+### PDF Report Sample
+![PDF Report](screenshots/PDF-Report-Example.png)
+
+
